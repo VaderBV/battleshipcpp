@@ -33,7 +33,7 @@ SCORES.DAT- Stores the high scores of both game modes <br />
 
 ## Screenshots:
 Loading Screen <br />
-![Picture1](https://user-images.githubusercontent.com/54500859/189523434-6eda4600-1c66-4b1e-8760-74a2b67e5db8.jpg)
+![Picture1](https://user-images.githubusercontent.com/54500859/189523434-6eda4600-1c66-4b1e-8760-74a2b67e5db8.jpg)<br />
 Main Menu <br />
 ![Picture2](https://user-images.githubusercontent.com/54500859/189523433-b9421415-b428-4926-8c6f-f3318744ac50.jpg)
 
