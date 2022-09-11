@@ -37,8 +37,8 @@ Loading Screen <br />
 Main Menu <br />
 ![Picture2](https://user-images.githubusercontent.com/54500859/189523433-b9421415-b428-4926-8c6f-f3318744ac50.jpg)<br />
 
-Label 1 | Label 2
---- | ---
+
+  |
 ![Picture3](https://user-images.githubusercontent.com/54500859/189523432-e56ffe87-c52c-46a0-9348-3e59af9363ff.jpg)| ![Picture4](https://user-images.githubusercontent.com/54500859/189523431-256a4a7b-2b34-4fce-93e9-40edf7ab91d9.jpg)
 Label 1 | Label 2
 --- | ---
