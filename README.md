@@ -32,7 +32,7 @@ Pointers &amp; Dynamic memory allocation
 SCORES.DAT- Stores the high scores of both game modes <br />
 
 ## Screenshots:
-Solarized dark             |  Solarized Ocean
+             |  
 :-------------------------:|:-------------------------:
 ![Picture1](https://user-images.githubusercontent.com/54500859/189523434-6eda4600-1c66-4b1e-8760-74a2b67e5db8.jpg) | ![Picture2](https://user-images.githubusercontent.com/54500859/189523433-b9421415-b428-4926-8c6f-f3318744ac50.jpg)
 ![Picture3](https://user-images.githubusercontent.com/54500859/189523432-e56ffe87-c52c-46a0-9348-3e59af9363ff.jpg) | ![Picture4](https://user-images.githubusercontent.com/54500859/189523431-256a4a7b-2b34-4fce-93e9-40edf7ab91d9.jpg)
