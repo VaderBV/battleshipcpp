@@ -20,14 +20,13 @@ Minimum grid size is 5X5 and maximum is 9X9.
 
 ## Concepts used in the project:
 
-Structures
-Binary Files
+Structures <br />
+Binary Files <br />
 1. 1PLYR.DAT- Stores the Single Player Mode saved games
 2. 2PLYR.DAT- Stores the Two Player Mode saved games
 3. SCORES.DAT- Stores the high scores of both game modes
-Binary File Operations: Adding Records, Updating Records and
-Deleting Records
-Functions(implements Modularity)
-Function Overloading(Polymorphism)
-Graphics
-Pointers &amp; Dynamic memory allocation
+Binary File Operations: Adding Records, Updating Records and Deleting Records <br />
+Functions(implements Modularity) <br />
+Function Overloading(Polymorphism) <br />
+Graphics <br />
+Pointers &amp; Dynamic memory allocation <br />
