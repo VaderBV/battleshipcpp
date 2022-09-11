@@ -36,11 +36,10 @@ Loading Screen <br />
 ![Picture1](https://user-images.githubusercontent.com/54500859/189523434-6eda4600-1c66-4b1e-8760-74a2b67e5db8.jpg)<br />
 Main Menu <br />
 ![Picture2](https://user-images.githubusercontent.com/54500859/189523433-b9421415-b428-4926-8c6f-f3318744ac50.jpg)<br />
-<p align="center">
-  <img alt="Pic3" src="![Picture3](https://user-images.githubusercontent.com/54500859/189523432-e56ffe87-c52c-46a0-9348-3e59af9363ff.jpg)" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Pic4" src="![Picture4](https://user-images.githubusercontent.com/54500859/189523431-256a4a7b-2b34-4fce-93e9-40edf7ab91d9.jpg)" width="45%">
-</p>
+
+label 1 | label 2
+--- | ---
+![Picture3](https://user-images.githubusercontent.com/54500859/189523432-e56ffe87-c52c-46a0-9348-3e59af9363ff.jpg)| ![Picture4](https://user-images.githubusercontent.com/54500859/189523431-256a4a7b-2b34-4fce-93e9-40edf7ab91d9.jpg)
 
 ![Picture5](https://user-images.githubusercontent.com/54500859/189523430-37285883-e8aa-49fe-b30f-ae6e90ab59d9.jpg)| ![Picture6](https://user-images.githubusercontent.com/54500859/189523429-b2cdd42e-4789-4f7a-9dbb-e480eadf2fff.jpg)
 
