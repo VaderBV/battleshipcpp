@@ -1,5 +1,5 @@
 # battleshipcpp
-Introduction:
+## Introduction:
 Battleship is a guessing game for two players. It is played on
 ruled grids on which each player’s fleet of ships are marked.
 The locations of the fleets are concealed from the other
@@ -8,7 +8,7 @@ player&#39;s ships, and the objective of the game is to destroy the
 opposing player&#39;s fleet. This is a modern version of Battleship
 developed using C++ programming language
 
-About Page:
+## About Page:
 It displays the synopsis of the game Battleship. On pressing ‘a’
 key, the user gets to visit the administrator options.
 Administrator Page:
@@ -18,7 +18,7 @@ number of ships can be modified.
 Minimum number of ships is 5 and maximum is 8.
 Minimum grid size is 5X5 and maximum is 9X9.
 
-Concepts used in the project:
+## Concepts used in the project:
 
 Structures
 Binary Files
