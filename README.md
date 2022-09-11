@@ -31,3 +31,20 @@ Pointers &amp; Dynamic memory allocation
 2PLYR.DAT- Stores the Two Player Mode saved games <br />
 SCORES.DAT- Stores the high scores of both game modes <br />
 
+## Screenshots
+![Picture1](https://user-images.githubusercontent.com/54500859/189523434-6eda4600-1c66-4b1e-8760-74a2b67e5db8.jpg)
+![Picture2](https://user-images.githubusercontent.com/54500859/189523433-b9421415-b428-4926-8c6f-f3318744ac50.jpg)
+![Picture3](https://user-images.githubusercontent.com/54500859/189523432-e56ffe87-c52c-46a0-9348-3e59af9363ff.jpg)
+![Picture4](https://user-images.githubusercontent.com/54500859/189523431-256a4a7b-2b34-4fce-93e9-40edf7ab91d9.jpg)
+![Picture5](https://user-images.githubusercontent.com/54500859/189523430-37285883-e8aa-49fe-b30f-ae6e90ab59d9.jpg)
+![Picture6](https://user-images.githubusercontent.com/54500859/189523429-b2cdd42e-4789-4f7a-9dbb-e480eadf2fff.jpg)
+![Picture7](https://user-images.githubusercontent.com/54500859/189523428-84d2eab9-a049-4a42-90c1-e27bd68ace5b.jpg)
+![Picture8](https://user-images.githubusercontent.com/54500859/189523427-4573d75c-e478-489c-8196-a95e72ea6778.jpg)
+![Picture9](https://user-images.githubusercontent.com/54500859/189523426-1cac173b-44e6-471e-9bb4-2cb7f5089af0.jpg)
+![Picture10](https://user-images.githubusercontent.com/54500859/189523425-2b893fa3-38d7-4741-9995-0370aa2ee8f8.jpg)
+
+
+
+
+
+
